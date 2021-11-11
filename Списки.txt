@@ -1,0 +1,66 @@
+<HTML>
+  <HEAD>
+    <TITLE>Списки</TITLE>
+  </HEAD>
+  <BODY>
+    <H1 ALIGN="CENTER">Списки и форматирование текста</H1>
+    <HR ALIGN="CENTER" SIZE="5" WIDTH="50%">
+    <P>Дадим определение</P>
+    <DL>
+    <DT>Список</DT>
+    <DD>-набор ключевых понятий,на которые необходимо обратить внимание.</DD>
+    </DL>
+    <P>Текст документа оформляется, задавая </P>
+    <UL TYPE="disk">
+      <LI>Параметры шрифта</LI>
+        <UL TYPE="circle">
+          <LI>Размер</LI>
+            <OL>
+             <LI><FONT SIZE="1">Размер 1</FONT></LI>
+             <LI><FONT SIZE="2">Размер 2</FONT></LI>
+             <LI><FONT SIZE="3">Размер 3</FONT></LI>
+             <LI><FONT SIZE="4">Размер 4</FONT></LI>
+             <LI><FONT SIZE="5">Размер 5</FONT></LI>
+             <LI><FONT SIZE="6">Размер 6</FONT></LI>
+             <LI><FONT SIZE="7">Размер 7</FONT></LI>
+            </OL>
+          <LI>Цвет</LI>
+            <OL>
+             <LI><FONT COLOR="blue">Синий</FONT></LI>
+             <LI><FONT COLOR="red">Красный</FONT></LI>
+             <LI><FONT COLOR="green">Зеленый</FONT></LI>
+            </OL>
+          <LI>Гарнитура</LI>
+            <OL>
+             <LI><FONT FACE="Arial">Arial</FONT></LI>
+             <LI><FONT FACE="Courier">Courier</FONT></LI>
+             <LI><FONT FACE="Times New Roman">Times New Roman</FONT></LI>
+            </OL>
+        </UL>
+      <LI>Выделение текста</LI>
+        <UL TYPE="square">
+          <LI>Начертание символов</LI>
+            <OL TYPE="I">
+             <LI><B>Жирный</B></LI>
+             <LI><I>Курсив</I></LI>
+             <LI><U>Подчеркнутый</U></LI>
+             <LI><S>Зачеркнутый</S></LI>
+             <LI>Это <SUB>подстрочный</SUB></LI>
+             <LI>Это <SUP>надстрочный</SUP></LI>
+            </OL> 
+          <LI>Функциональные элементы</LI>
+            <OL TYPE="A">
+             <LI><EM>Выделение</EM></LI>
+             <LI><STRONG>Сильное выделение</STRONG></LI>
+             <LI><CITE>Цитата</CITE></LI>
+            </OL> 
+          <LI>Элементы программы</LI>
+            <OL TYPE="a">
+             <LI><CODE>Код</CODE></LI>
+             <LI><VAR>Переменные</VAR></LI>
+             <LI><KBD>Ввод с клавиатуры</KBD></LI>
+            </OL> 
+        </UL>
+    </UL>
+  </BODY>
+</HTML>
