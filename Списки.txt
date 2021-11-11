@@ -3,6 +3,7 @@
     <TITLE>Списки</TITLE>
   </HEAD>
   <BODY>
+<p>some text</p>
     <H1 ALIGN="CENTER">Списки и форматирование текста</H1>
     <HR ALIGN="CENTER" SIZE="5" WIDTH="50%">
     <P>Дадим определение</P>
