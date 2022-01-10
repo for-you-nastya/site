@@ -56,7 +56,7 @@
              <LI><CITE>÷итата</CITE></LI>
             </OL> 
           <LI>Ёлементы программы</LI>
-<p>написать пункты</p>
+GitHub Desktop
         </UL>
     </UL>
   </BODY>
